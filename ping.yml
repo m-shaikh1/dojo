@@ -1,4 +1,4 @@
-- name: Test Connection
+- name: Test Connections
   hosts: all
   tasks: 
   - name: Ping all servers 
